@@ -42,9 +42,6 @@ public class Quicksort {
         qsort.add(30);
         qsort.add(121);
         System.out.println(qsort);
-
-        // Collections.sort(qsort);
-        // System.out.println(qsort);
         
         int n = qsort.size();
         sort(qsort, 0, n - 1);
