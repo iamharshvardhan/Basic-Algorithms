@@ -1,17 +1,17 @@
 public class App {
     public static void main(String[] args) {
         
-        // Collectionsorting.collectionsorting();
+        Collectionsorting.collectionsorting();
 
-        // BubbleSort.bubblesort();
+        BubbleSort.bubblesort();
 
-        // Insertionsort.insertionsort();
+        Insertionsort.insertionsort();
 
-        // Selectionsort.selectionsort();
+        Selectionsort.selectionsort();
 
         Mergesort.mergesort();  // not working
 
-        // Quicksort.quicksort();
+        Quicksort.quicksort();
 
     }
 }
