@@ -4,10 +4,10 @@ public class App {
         Collectionsearch cs = new Collectionsearch();
         cs.collectionsearch();
 
-        // Linearsearch ls = new Linearsearch();
-        // ls.linearsearch();
+        Linearsearch ls = new Linearsearch();
+        ls.linearsearch();
 
-        // Binarysearch bs = new Binarysearch();
-        // bs.binarysearch();
+        Binarysearch bs = new Binarysearch();
+        bs.binarysearch();
     }
 }
